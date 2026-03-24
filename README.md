@@ -1,2 +1,5 @@
 Tere, git!
-uus rida
+
+See on uus rida
+
+See on veel uuem rida.
